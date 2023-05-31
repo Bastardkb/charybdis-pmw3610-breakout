@@ -1,4 +1,4 @@
-21453210598750120
+21454896121703714
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89585,6 +89585,13 @@ capacitor
 0
 2
 2
+lib
+PMW3610
+https://www.pixart.com/products-detail/21/PMW3610DM-SUDU
+
+0
+16
+16
 lib
 R_0603_1608Metric
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
