@@ -99,6 +99,7 @@
   (footprint "" (layer "F.Cu")
     (tstamp 40f0314e-8fcd-442c-9f6b-91693aa7c97b)
     (at 81.648 92.181999)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H1" (at 0 0) (layer "F.SilkS")
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 1396d75f-b15b-40ab-8449-1b95c0f82e08)
@@ -113,6 +114,7 @@
   (footprint "" (layer "F.Cu")
     (tstamp 50240cac-de01-46f4-9afa-88912e44bc98)
     (at 81.638 129.171999)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H2" (at 0 0) (layer "F.SilkS")
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 6b9c44c1-09b1-4c7f-b78d-77bbd31d5632)
@@ -134,7 +136,7 @@
     (property "ki_description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)")
     (property "ki_keywords" "connector")
     (path "/d04e4a25-fea8-400a-b78a-19b8bbedb78b")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J1" (at 0 -2.33) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3e2c8bf3-c0c8-4e13-ab91-7df06505bfe7)
@@ -464,7 +466,7 @@
     (property "ki_description" "https://www.pixart.com/products-detail/21/PMW3610DM-SUDU")
     (property "ki_keywords" "optical mouse sensor")
     (path "/5d8ede79-525a-4699-a26f-2f9fda21b037")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "U2" (at 4.984 -15.39) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 12581dc1-b688-4eb2-a71d-0466f2d98e05)
